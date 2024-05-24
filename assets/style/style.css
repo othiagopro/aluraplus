@@ -43,6 +43,7 @@ body{
     border-radius: 5px;
     padding: 1em;
     text-decoration: none;
+    margin: 0 0 1em 0;
 }
 
 .botao_secundario{
@@ -58,4 +59,8 @@ body{
 .container_titulo{
     font-size: 28px;
     font-weight: 700;
+}
+
+.container_imagem{
+    margin: 1em 0 2em 0
 }
