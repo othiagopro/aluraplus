@@ -34,6 +34,8 @@ body{
     background-image: url("../img/Background.png");
     background-repeat: no-repeat;
     background-size: contain;
+    align-items: center;
+    text-align: center;
 }
 
 .container_botao{
@@ -67,5 +69,4 @@ body{
 
 .container_caixa{
     margin: 0 6em;
-    text-align: center;
 }
